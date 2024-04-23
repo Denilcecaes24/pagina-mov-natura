@@ -1,0 +1,304 @@
+.contenedor_comp_esp .swiper {
+    width: 100%;
+    max-width: 1400px;
+    height: 80vh;
+  }
+
+  .contenedor_comp_esp .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .contenedor_comp_esp .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .contenedor_comp_esp .sw-sldr_1{
+      background-image: linear-gradient(to bottom, rgba(221, 17, 225, 0.5), rgba(222, 13, 153, 0.5)), url(../img/img_fondo_vent.jpg);
+      width: 100%;
+      height: auto;
+      background-size: cover;
+      background-position: center;
+  }
+
+  .contenedor_comp_esp .sw-sldr_2{
+      background-image: linear-gradient(to bottom, rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url(../img/fondo_flores3.jpg);
+      width: 100%;
+      height: auto;
+      background-size: cover;
+      background-position: center;
+  }
+
+  .contenedor_comp_esp .sw-sldr_3{
+      background-image:linear-gradient(to bottom, rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url(../img/fondo_flores3.jpg);
+      width: 100%;
+      height: auto;
+      background-size: cover;
+      background-position: center;
+  }
+
+  .contenedor_comp_esp .sw-sldr_4{
+    background-image: linear-gradient(to bottom, rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url(../img/fondo_flores3.jpg);
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+}
+
+
+  .contenedor_comp_esp .cuadro-transp{
+      color: #fff;
+      width: 60%;
+      max-width: 900px;
+      margin: auto;
+      padding: 15px;
+      background-color: rgba(188, 10, 126, 0.7);
+      border-radius: 15px;
+  }
+  .contenedor_comp_esp .cuadro-transp2{
+    color: #fff;
+    width: 60%;
+    max-width: 900px;
+    margin: auto;
+    padding: 15px;
+    background-color: rgba(4, 165, 45, 0.7);
+    border-radius: 15px;
+}
+
+.contenedor_comp_esp .cuadro-transp3{
+  color: #fff;
+  width: 60%;
+  max-width: 900px;
+  margin: auto;
+  padding: 15px;
+  background-color: rgba(255, 144, 18, 0.7);
+  border-radius: 15px;
+}
+
+  .contenedor_comp_esp .cuadro-transp h2{
+    color: #fff;
+}
+  .contenedor_comp_esp .cuadro-transp li{
+    list-style: none;
+  }
+
+  .contenedor_comp_esp .cuadro-transp p{
+    font-size: 16px;
+  }
+
+  .contenedor_comp_esp .cuadro-transp2 p{
+    font-size: 16px;
+  }
+
+  .contenedor_comp_esp .cuadro-transp3 p{
+    font-size: 16px;
+  }
+
+  .estilo_txt_lista{
+    font-size: 17px;
+  }
+
+  .contenedor_comp_esp .swiper-button-next  {
+    color: gray;
+  }
+
+  .contenedor_comp_esp  .swiper-button-prev {
+    color: gray;
+  }
+
+
+
+
+
+  /* telefono */
+  .contenedor_comp_esp_tel .swiper {
+    width: 100%;
+    max-width: 1400px;
+    height: 80vh;
+  }
+
+  .contenedor_comp_esp_tel .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .contenedor_comp_esp_tel .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .contenedor_comp_esp_tel .sw-sldr_1{
+      background-image: linear-gradient(to bottom, rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url(../img/fondo_flores3.jpg);
+      width: 100%;
+      height: auto;
+      background-size: cover;
+      background-position: center;
+  }
+
+  .contenedor_comp_esp_tel .sw-sldr_2{
+      background-image: linear-gradient(to bottom, rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url(../img/fondo_flores3.jpg);
+      width: 100%;
+      height: auto;
+      background-size: cover;
+      background-position: center;
+  }
+
+  .contenedor_comp_esp_tel .sw-sldr_3{
+      background-image:linear-gradient(to bottom, rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url(../img/fondo_flores3.jpg);
+      width: 100%;
+      height: auto;
+      background-size: cover;
+      background-position: center;
+  }
+
+  .contenedor_comp_esp_tel .sw-sldr_4{
+    background-image: linear-gradient(to bottom, rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url(../img/fondo_flores3.jpg);
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-position: center;
+}
+
+.contenedor_comp_esp_tel .sw-sldr_5{
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url(../img/fondo_flores3.jpg);
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+}
+.contenedor_comp_esp_tel .sw-sldr_6{
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url(../img/fondo_flores3.jpg);
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+}
+
+
+  .contenedor_comp_esp_tel .cuadro-transp{
+      color: #fff;
+      width: 60%;
+      max-width: 900px;
+      margin: auto;
+      padding: 15px;
+      background-color: rgba(188, 10, 126, 0.7);
+      border-radius: 15px;
+  }
+  .contenedor_comp_esp_tel .cuadro-transp2{
+    color: #fff;
+    width: 60%;
+    max-width: 900px;
+    margin: auto;
+    padding: 15px;
+    background-color: rgba(4, 165, 45, 0.7);
+    border-radius: 15px;
+}
+
+.contenedor_comp_esp_tel .cuadro-transp3{
+  color: #fff;
+  width: 60%;
+  max-width: 900px;
+  margin: auto;
+  padding: 15px;
+  background-color: rgba(255, 144, 18, 0.7);
+  border-radius: 15px;
+}
+
+  .contenedor_comp_esp_tel .cuadro-transp h2{
+    color: #fff;
+}
+  .contenedor_comp_esp_tel .cuadro-transp li{
+    list-style: none;
+  }
+
+  .contenedor_comp_esp_tel .cuadro-transp p{
+    font-size: 16px;
+  }
+  .contenedor_comp_esp_tel .cuadro-transp2 p{
+    font-size: 16px;
+  }
+  .contenedor_comp_esp_tel .cuadro-transp3 p{
+    font-size: 16px;
+  }
+
+  .estilo_txt_lista{
+    font-size: 17px;
+  }
+
+  .contenedor_comp_esp_tel .swiper-button-next  {
+    color: gray;
+  }
+
+  .contenedor_comp_esp_tel  .swiper-button-prev {
+    color: gray;
+  }
+
+
+  @media (max-width:668px) {
+    .contenedor_comp_esp{
+      display: none;
+    }
+
+    .contenedor_comp_esp_tel .cuadro-transp{
+      width: 90%;
+
+  }
+
+  .contenedor_comp_esp_tel .cuadro-transp2{
+    width: 90%;
+
+}
+
+.contenedor_comp_esp_tel .cuadro-transp3{
+  width: 90%;
+
+}
+     
+   }
+
+   @media ((min-width:669px) and (max-width:968px)) {
+    .contenedor_comp_esp .cuadro-transp{
+      width: 80%;
+
+  }
+
+  .contenedor_comp_esp .cuadro-transp2{
+    width: 80%;
+
+}
+
+.contenedor_comp_esp .cuadro-transp3{
+  width: 80%;
+
+}
+
+  .contenedor_comp_esp_tel{
+    display: none;
+  }
+   
+     
+ }
+
+ @media (min-width:969px) {
+  .contenedor_comp_esp_tel{
+    display: none;
+  }
+
+
+   
+ }
